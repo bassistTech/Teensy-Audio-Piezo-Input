@@ -1,7 +1,7 @@
 # Teensy-Audio-Piezo-Input
 Piezo transducer input for Teensy Audio Shield
 
-Status: I just begin building this document... bear with me!
+Status: I just began building this document... bear with me!
 
 This project modifies a Teensy Audio Shield to accept the relatively weak singal from
 a piezoelectric transducer. "Piezo" pickups are frequenly used to amplify acoustic
