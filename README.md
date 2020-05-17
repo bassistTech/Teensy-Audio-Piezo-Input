@@ -2,7 +2,7 @@
 
 To read the document, go here:
 
-[](Teensy-Audio-Piezo-Input.ipynb)
+[Teensy-Audio-Piezo-Input.ipynb](Teensy-Audio-Piezo-Input.ipynb)
 
 It's a Jupyter notebook, but GitHub will automatically render it
 in a few seconds.
